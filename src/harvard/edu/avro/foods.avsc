@@ -1,0 +1,37 @@
+{
+"namespace": "harvard.edu.user",
+ "type": "record",
+ "name": "Food",
+ "fields":
+ [
+     {
+         "name": "userId",
+         "type": "string"
+     },
+     {
+         "name": "profileName",
+         "type": "string"
+     },
+     {
+         "name": "helpfulness",
+         "type": "string"
+     },
+     {
+         "name": "score",
+         "type": "string"
+     },
+     {
+         "name": "time",
+         "type": "string"
+     },
+     {
+         "name": "summary",
+         "type": "string"
+     },
+     {
+         "name": "text",
+         "type": "string"
+     },
+     
+ ]
+}
