@@ -1,7 +1,9 @@
-{"namespace": "net.devcat.avro.model",
+{
+"namespace": "harvard.edu.user",
  "type": "record",
  "name": "User",
- "fields": [
+ "fields":
+ [
      {
          "name": "firstName",
          "type": "string"
